@@ -119,7 +119,7 @@ Use this repo to showcase your thinking, design ability, and tech execution.
 ---
 
 ## 🧠 Built With Vision By
-**[SAM IVERE / https://github.com/Hsprafrique]** – Full-stack & Web3 Engineer | Solana • Node.js • React
+**[SAM IVERE / https://www.linkedin.com/in/hsprafrique/]** – Full-stack & Web3 Engineer | Solana • Node.js • React
 
 Let's build the tools they thought we couldn’t.
 
