@@ -1,0 +1,12 @@
+import React from 'react';
+
+const App = () => {
+  return (
+    <main className="min-h-screen bg-gray-100 text-gray-800 flex items-center justify-center">
+      <h1 className="text-4xl font-bold">Pulse Logix Frontend 🚀</h1>
+    </main>
+  );
+};
+
+export default App;
+
