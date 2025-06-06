@@ -1,63 +1,7 @@
-<<<<<<< HEAD
-# React + TypeScript + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
-=======
 # AI-Powered Logistics App
 
 ## 🚀 Overview
-An intelligent logistics coordination platform that connects **merchants** with **dispatch riders** in real-time. Designed for speed, accessibility, and efficiency — with features tailored for the Nigerian market.
+An intelligent logistics coordination platform that connects **merchants** with **dispatch riders** in real-time. Designed for speed, accessibility, and efficiency — with features tailored for the African market.
 
 ---
 
@@ -98,7 +42,6 @@ Merchants struggle with unreliable dispatch systems, while dispatch riders miss 
 - **Status-based flow** — Each job moves through defined states: `created → assigned → in progress → completed`
 - **Secure auth** — JWT or session-based login
 - **Payment support** — Integration with local NGN payment gateways
-- **Future feature: USSD mode** for offline job claiming (visionary scope)
 
 ---
 
@@ -154,7 +97,7 @@ Merchants struggle with unreliable dispatch systems, while dispatch riders miss 
 - [ ] Add notifications (online-only delivery)
 - [ ] Add test payment integration
 - [ ] Launch basic MVP
-- [ ] Begin USSD expansion & AI job matching
+- [ ] Begin AI job matching
 
 ---
 
@@ -170,7 +113,7 @@ Merchants struggle with unreliable dispatch systems, while dispatch riders miss 
 ## 💡 Why This Project Matters
 This app was inspired by a real negotiation to build a logistics coordination tool from scratch — designed to prove that **Nigerian developers can build world-class tools that solve real African problems**.
 
-Use this repo to showcase your thinking, design ability, and tech execution.
+Use MY repo to showcase your thinking, design ability, and tech execution.
 
 ---
 
@@ -182,6 +125,5 @@ Let's build the tools they thought we couldn’t.
 ---
 
 ## 🔗 License
-MIT License – Open source, fork it and build more.
+MIT License – TECH-AFRIQUE
 
->>>>>>> 3a59e796f941d387c7eda560a22fd940dccae641
