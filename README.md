@@ -1,17 +1,18 @@
-# AI-Powered Logistics App
+# PULSE - LOGIX App
 
 ## 🚀 Overview
-An intelligent logistics coordination platform that connects **merchants** with **dispatch riders** in real-time. Designed for speed, accessibility, and efficiency — with features tailored for the African market.
-
+AI-Powered Logistics Platform for African Merchants
+Seamlessly create delivery orders, assign riders, and track shipments in real-time — no hassle
 ---
 
 ## 🎯 Problem Statement
 Merchants struggle with unreliable dispatch systems, while dispatch riders miss job opportunities due to lack of real-time tools. This app bridges that gap with an AI-enhanced platform that:
 
-- Allows merchants to create, assign, and track delivery jobs
-- Notifies riders *only when they’re online* and ready to accept tasks
-- Supports local payments, scalability, and offline-friendly UX in future versions
-
+Create and manage delivery orders
+Assign riders in real-time
+Track order status: Pending, In Transit, Delivered
+Responsive UI with clean, user-friendly dashboard
+Smooth navigation between Home, Merchant, Rider, and Orders views
 ---
 
 ## 👥 User Roles
@@ -28,10 +29,6 @@ Merchants struggle with unreliable dispatch systems, while dispatch riders miss 
 - Accept/reject jobs
 - Update job status
 - View earnings
-
-### Admin (Optional)
-- User management
-- Job monitoring & analytics
 
 ---
 
@@ -92,12 +89,11 @@ Merchants struggle with unreliable dispatch systems, while dispatch riders miss 
 
 ## 📈 Roadmap
 
-- [ ] Build full backend API (Node.js or FastAPI)
-- [ ] Design simple merchant & rider dashboards
-- [ ] Add notifications (online-only delivery)
-- [ ] Add test payment integration
-- [ ] Launch basic MVP
-- [ ] Begin AI job matching
+Backend integration with database and API
+Authentication & user management
+Real-time rider availability & order tracking via WebSocket
+Mobile app companion
+Enhanced analytics dashboard
 
 ---
 
@@ -119,8 +115,6 @@ Use MY repo to showcase your thinking, design ability, and tech execution.
 
 ## 🧠 Built With Vision By
 **[SAM IVERE / https://www.linkedin.com/in/hsprafrique/]** – Full-stack & Web3 Engineer | Solana • Node.js • React
-
-Let's build the tools they thought we couldn’t.
 
 ---
 
