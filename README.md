@@ -9,9 +9,13 @@ Seamlessly create delivery orders, assign riders, and track shipments in real-ti
 Merchants struggle with unreliable dispatch systems, while dispatch riders miss job opportunities due to lack of real-time tools. This app bridges that gap with an AI-enhanced platform that:
 
 Create and manage delivery orders
+
 Assign riders in real-time
+
 Track order status: Pending, In Transit, Delivered
+
 Responsive UI with clean, user-friendly dashboard
+
 Smooth navigation between Home, Merchant, Rider, and Orders views
 ---
 
@@ -90,9 +94,13 @@ Smooth navigation between Home, Merchant, Rider, and Orders views
 ## 📈 Roadmap
 
 Backend integration with database and API
+
 Authentication & user management
+
 Real-time rider availability & order tracking via WebSocket
+
 Mobile app companion
+
 Enhanced analytics dashboard
 
 ---
